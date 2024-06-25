@@ -30,7 +30,7 @@ body{
 
 .container{
    max-width: 400px;
-   width: 20vw;
+   height: fit-content;
    background-color: var(--OffBlack);
    display: flex;
    flex-direction: column;
